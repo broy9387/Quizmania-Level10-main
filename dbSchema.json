@@ -1,0 +1,75 @@
+{
+    "users": [
+        {
+            "userId": "y7tgyvgi7f7dtyufioiygifytuhio8",
+            "name": "John Wick",
+            "ageGroup": "10-15",
+            "desc": "I love coding and playing chess",
+            "email": "John.wick@gmail.com",
+            "profilePicUri": {
+                "uri":  "http://gogoe.omc/random.jpg"
+            },
+            "quizResponses": [
+                {
+                    "quizId": "3242randomname",
+                    "responses": [
+                        {
+                            "questionId": "jihugyftughiugyu",
+                            "question": "Who was Iron man?",
+                            "answeredOptionId": "7t6rfuyghkg765tfuyig",
+                            "answeredOption": "Tony William",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+
+    "quizTypes": [
+        "Maths Quiz", "Science Quiz", "History Quiz",
+        "Social Science", "Hindi Quiz", "English Quiz", 
+        "Sports Quiz", "Tech Quiz", "Arts Quiz", "General Quiz"
+    ],
+
+    "quizes": [
+        {
+            "quizId": "3242randomname",
+            "createdByUserId": "y7tgyvgi7f7dtyufioiygifytuhio8",
+            "quizName": "Marvel Superhero",
+            "quizImgUri":{
+                "uri":  "http://gogoe.omc/adjhajkda.jpg"
+            },
+            "quizType": "General Quiz",
+            "quizDesc": "Quiz on Marvel heros",
+            "questions": [
+                {
+                    "questionId": "jihugyftughiugyu",
+                    "question": "Who was Iron man?",
+                    "options": [
+                        {
+                            "optionId": "7t6rfuyghkg765tfuyig",
+                            "option": "Tony William",
+                            "isAns": false
+                        },
+                        {
+                            "optionId": "8t6rfuyuytr765tfuyig",
+                            "option": "Tony Stark",
+                            "isAns": true
+                        },
+                        {
+                            "optionId": "9t6jtreghkg765tfuyig",
+                            "option": "Arno Stark",
+                            "isAns": false
+                        },
+                        {
+                            "optionId": "6t6rfoiuykg765tfuyig",
+                            "option": "Howard Stark",
+                            "isAns": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]   
+}
